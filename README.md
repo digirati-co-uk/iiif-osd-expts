@@ -14,4 +14,8 @@ I want to see how far this can be pushed.
 * Can we get a region of a video (particular xywh) playing?
 * What else can we do with HTML5 canvas overlaid on OSD?
 
+https://github.com/openseadragon/openseadragon/issues/259
+
+
+
 
